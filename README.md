@@ -1,8 +1,8 @@
 # Sales-volume-forecasting-and-analysis-system
 #### 銷售量預測暨分析系統─以蘇州旅宿業為例
 #### 發現蘇州的酒店有銷售量震盪的趨勢，因此和夥伴們一起開發了銷售量預測系統
-＃ 系統介面：http://ec2-54-180-26-182.ap-northeast-2.compute.amazonaws.com/
-#登入畫面
+## 系統介面：http://ec2-54-180-26-182.ap-northeast-2.compute.amazonaws.com/
+## 登入畫面
 
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.PNG)
  
@@ -45,6 +45,6 @@
 + [原理]
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E9%8A%B7%E5%94%AE%E7%AD%96%E7%95%A5%E5%8E%9F%E7%90%86.PNG)
 
-+ [感謝名單]
+## 感謝名單
 Josh, Filex, Angie, Gary, James, Kia, Iris,Tim
 
