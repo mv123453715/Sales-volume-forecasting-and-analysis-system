@@ -18,7 +18,7 @@
 建模後預測2016年2月的銷售量
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E9%8A%B7%E5%94%AE%E9%87%8F%E9%A0%90%E6%B8%AC.PNG)
  
-原理
++ [原理]
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E9%8A%B7%E5%94%AE%E9%87%8F%E9%A0%90%E6%B8%AC%E5%8E%9F%E7%90%86.PNG)
  
 + [功能三：價格敏感計]
@@ -26,14 +26,14 @@
 
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E5%83%B9%E6%A0%BC%E6%95%8F%E6%84%9F%E8%A8%88.PNG)
 
-+[原理]
++ [原理]
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E5%83%B9%E6%A0%BC%E6%95%8F%E6%84%9F%E8%A8%88%E5%8E%9F%E7%90%86.PNG)
 
 + [功能四：評論風向球]
 蒐集網路上客戶的評論進行好壞的分類，找出影響銷售量的因子
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E8%A9%95%E8%AB%96%E9%A2%A8%E5%90%91%E7%90%83.PNG)
 
-+[原理]
++ [原理]
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E8%A9%95%E8%AB%96%E9%A2%A8%E5%90%91%E7%90%83%20%E5%8E%9F%E7%90%86.PNG)
 
 + [功能五：銷售策略分析]
@@ -42,9 +42,9 @@
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E9%8A%B7%E5%94%AE%E7%AD%96%E7%95%A5.PNG)
 
 
-+[原理]
++ [原理]
 ![image](https://github.com/mv123453715/Sales-volume-forecasting-and-analysis-system/blob/master/%E9%8A%B7%E5%94%AE%E7%AD%96%E7%95%A5%E5%8E%9F%E7%90%86.PNG)
 
-+[感謝名單]
-+[Josh, Filex, Angie, Gary, James, Kia, Iris,Tim]
++ [感謝名單]
+Josh, Filex, Angie, Gary, James, Kia, Iris,Tim
 
